@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: ; */
+    /* font-family: 'Source Sans Pro', sans-serif; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+    /* font-family: 'Montserrat', sans-serif;
+font-family: 'Source Sans Pro', sans-serif; */
+font-family: 'Century Gothic Paneuropean', sans-serif;
+                                                
+overflow-y: 0;
+
+}
+
+.head{
+    font-size: 50px;
+    background-color: rgb(104, 183, 247);
+    
+    color: #fff;
+    padding: 23px;
+    /* font-weight: 200; */
+}
+.nav{
+    width: auto;
+    background-color: rgb(57, 52, 52);
+    color: #fff;
+    font-weight: 700;
+    
+}
+.navbar{
+    list-style: none;
+    display: flex;
+    /* margin: 8px; */
+    padding-left: 15px;
+    padding-right: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+/* .navbar ul{
+    /* padding: 20px; 
+} */
+.navbar li{
+    /* margin: auto; */
+    
+    font-size: 15px;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    /* padding: 8px;
+    margin-left: 5px; */
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    
+    margin-left: 15px;
+    margin-right: 20px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    /* margin-bottom: 4px; */
+    /* margin-bottom: auto; */
+    /* font-weight: 300; */
+}
+
+.image{
+    /* text-align: right;
+    flex: auto; */
+    /* float: right; */
+/* display: -webkit-box; */
+margin-right: 0;
+/* margin-left: 820px; */
+/* margin-left: auto; */
+
+}
+
+.content{
+    margin: 30px;
+    margin-left: 50px;
+    width: 80%;
+    /* justify-content: center; */
+    text-align: justify;
+  text-justify: inter-word;
+    font-size: 14px;
+}
+
+.news{
+    /* margin: 20px; */
+    border: 1px solid black;
+    /* border-collapse: auto; */
+    width: fit-content;
+    font-size: 13px;
+    padding: 10px;
+    font-weight: 550;
+    /* margin-bottom: 20px; */
+}
+
+.news ul{
+    
+    margin-left: 25px;
+    list-style-type: "-   ";
+
+}
+.news ul li{
+    padding: 5px;
+}
+
+.welcome{
+    margin-top: 24px;
+    font-weight: 250;
+
+    /* padding: 20px; */
+    /* font-weight: 100;s */
+}
+
+/* .welcome b{
+    margin-bottom: 20px;
+} */
+
+.welcome p{
+    font-weight: 600;
+    font-size: 12px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+
+}
+
