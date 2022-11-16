@@ -15,7 +15,8 @@ overflow-y: 0;
 
 .head{
     font-size: 50px;
-    background-color: rgb(104, 183, 247);
+    /*background-color: rgb(104, 183, 247);*/
+    background-color:#3399cc;
     
     color: #fff;
     padding: 23px;
